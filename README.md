@@ -34,7 +34,6 @@ The students edit this section to add their names, Uniandes emails, and specify 
 
 1. Student No. 1 Neva Aguirre, Student No. 1 n.aguirrec@uniandes.edu.co, Student No. 1 202214654.
 1. Student No. 2 Julian Contreras, Student No. 2 j.contreras11@uniandes.edu.co , Student No. 2 202211884.
-1. Student No. 3 Name, Student No. 3 Uniandes Email, Student No. 3 owned functionality.
 
 [Back to top](#sample-sorts)
 
